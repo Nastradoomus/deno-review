@@ -3,7 +3,7 @@
 /// <reference lib="dom" />
 /// <reference lib="dom.asynciterable" />
 /// <reference lib="deno.ns" />
-import { h } from "https://crux.land/nanossr@0.0.4";
+import { h } from "https://crux.land/api/get/7GrKMy.ts";
 import Logo from "./assets/images/logo.tsx"
 
 
