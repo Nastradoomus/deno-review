@@ -12,5 +12,3 @@ export default //<ScriptsConfiguration>
         "deno run --reload --unstable --allow-net --allow-read  --allow-write --allow-run --allow-env ./server/app.ts",
     },
   }
-
-//  "deployctl run --unstable --allow-net --allow-read --allow-write --allow-run --allow-env --watch --no-check ./server/app.ts",
